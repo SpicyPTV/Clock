@@ -1,12 +1,8 @@
 # Clock Web App
 
-## v1.1.1 is here!
+### Welcome to the Beta branch!
 
-This update brings lots of bug fixes and changes but the main one is a revamped analog clock with new colour customization options!
-
-Download the update below or check it out on the new website (https://clockprogressive.web.app/)
-
-The next update will feature new launguages (French and Spanish) as well as other fixes and improvments!
+This branch will recieve updates weekly, this is meant for those who wish to view new features before they are officialy released in the stable version (main branch). These updates will hopefully have few bugs so you can use the app and be a beta tester.
 
 ## What is Clock Web App?
 
