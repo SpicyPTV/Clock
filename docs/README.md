@@ -1,6 +1,6 @@
 # Clock Web App
 
-### Welcome to the Beta branch!
+# Welcome to the Beta branch!
 
 This branch will recieve updates weekly, this is meant for those who wish to view new features before they are officialy released in the stable version (main branch). These updates will hopefully have few bugs so you can use the app and be a beta tester.
 
